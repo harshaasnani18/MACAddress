@@ -1,0 +1,77 @@
+/* CSS Document */
+
+.head{
+background-color:#FFFFFF;
+border:1px;
+height:inherit;
+display:block;
+
+
+}
+.imagehead{
+display:inline;
+border:1px solid:dashed;
+
+}
+.namehead{
+display:inline;
+border:1px solid:dashed;
+text-align:right;
+
+
+}
+form{
+
+border: 1px solid #1A33FF;
+    background: #ecf5fc;
+    padding: 40px 50px 45px;
+	width:500px;
+	}
+.footer{
+background-color:#0066FF;
+height:20px;
+width:100%;
+text-align:center;
+color:#000000;
+
+color:#FFFFFF;
+
+}
+
+#t1{
+width:300px;
+height:auto;
+
+}
+
+#t2{
+width:300px;
+height:auto;
+
+}
+#t3{
+width:300px;
+height:auto;
+
+}
+#t4{
+width:300px;
+height:auto;
+
+}
+#t5{
+width:300px;
+height:auto;
+
+}
+#b1{
+width:300px;
+height:30px;
+background-color:#3333FF;
+border:outset;
+color:#FFFFFF;
+}
+.container{
+margin-top:120px;
+	
+	}
